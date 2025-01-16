@@ -10,9 +10,9 @@ streamlit
 
 # Requirements for scrapper.py
 nltk==3.7
-langchain-google-genai==0.0.14  # Ensure to replace with the correct version you are using
-python-dotenv==1.0.0
-google-generativeai==0.2.2  # Ensure to replace with the correct version you are using
+langchain-google-genai  # Ensure to replace with the correct version you are using
+python-dotenv
+google-generativeai  # Ensure to replace with the correct version you are using
 
 
 
